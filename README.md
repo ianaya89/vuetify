@@ -1,6 +1,8 @@
-# vue-music
+# vue-music && NativeScript-Vue Music
 
-> 📻 Web app para el [Workshop introductior a Vue.js](https://github.com/ianaya89/workshop-vuejs)
+- 📻 Web app para el [Workshop introductior a Vue.js](https://github.com/ianaya89/workshop-vuejs)
+- 📱 Mobile app (Version en NativeScript-Vue). [Ver en NativeScript Playground](https://play.nativescript.org/?template=play-vue&id=vbL0WB&v=16) 
+
 
 ## Build Setup
 

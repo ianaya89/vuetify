@@ -1,9 +1,9 @@
 const spotifyService = {
-  // Esta es la url base de la API
+  //  API base url
   baseUrl: 'https://platzi-music-api.now.sh'
 }
 
-spotifyService.search = function (query, type) {
+spotifyService.search = (query, type) => {
   // Usando template strings armamos la url del endpoint con
   // el formato esperado por la API.
   const url = `${this.baseUrl}/search?q=${query}&type=${type}`
